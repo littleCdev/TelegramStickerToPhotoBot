@@ -1,0 +1,20 @@
+{
+  "name": "tgsticker2photo",
+  "version": "1.0.0",
+  "description": "telegram sticker to photo bot",
+  "main": "bot.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "telegram",
+    "sticker",
+    "photo",
+    "bot"
+  ],
+  "author": "littleCdev",
+  "license": "ISC",
+  "dependencies": {
+    "node-telegram-bot-api": "^0.50.0"
+  }
+}
